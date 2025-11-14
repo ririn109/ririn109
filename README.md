@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Ririn dwi aulya!
 Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
-Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
+Saya ingin memahami tujuan rekayasa perangkat lunak, aplikasi, dan teknologi masa depan.
 
 ## 💡 Minat Saya
 - Pengembangan Web (HTML, CSS, JavaScript)
